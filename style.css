@@ -1,11 +1,13 @@
 #profile-photo{
     width:40vh;
     height:40vh;
-    justify-content: center;
-    display:flex;
-    align-items: center; 
     border-style:solid;
     display:inline-flex
+}
+.profile-photo-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 .container{
     background-color: #1cb5a8;
