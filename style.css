@@ -3,6 +3,7 @@
     height:40vh;
     justify-content: center;
     display:flex;
+    align-items: center; 
     border-style:solid;
     display:inline-flex
 }
