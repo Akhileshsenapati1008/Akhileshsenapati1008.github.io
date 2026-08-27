@@ -10,4 +10,5 @@
 .name{
     color:orange;
     justify-content: center;
+    display:flex;
 }
